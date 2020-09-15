@@ -11,3 +11,16 @@
 ##### In deze les heb ik geleerd hoe je moet updaten met git en hoe je de tekst kleiner en groter kan maken!
 
 ##### Zelf ga ik dit gebruiken zodat ik en mijn groepje de files die wij hebben gemaakt van ons project steeds weer wordt upgedated en dat wij dan goed met elkaar dan kunnen samen werken
+
+<!DOCTYPE HTML>
+<html>
+<head>
+   <title>Wide Putin</title>
+   <style>
+
+   </style>
+</head>
+<body>
+    <h1>This has to work :D</h1>
+</body>
+</html>
