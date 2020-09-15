@@ -7,3 +7,7 @@
 #### vier hekjes
 
 ##### vijf hekjes
+
+##### In deze les heb ik geleerd hoe je moet updaten met git en hoe je de tekst kleiner en groter kan maken!
+
+##### Zelf ga ik dit gebruiken zodat ik en mijn groepje de files die wij hebben gemaakt van ons project steeds weer wordt upgedated en dat wij dan goed met elkaar dan kunnen samen werken
