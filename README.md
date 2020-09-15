@@ -35,6 +35,6 @@
 
 # Game Over
 
-###### Springtraps
+##### Springtraps
 
 ##### Pingas
