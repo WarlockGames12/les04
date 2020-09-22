@@ -22,6 +22,7 @@
 </head>
 <body>
     <h1>This has to work :D</h1>
+    <img src="KillerQueen.png">
 </body>
 </html>
 
